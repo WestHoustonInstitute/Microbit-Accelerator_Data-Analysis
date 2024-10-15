@@ -1,1 +1,2 @@
-
+After completing the step 1, download the .ipynb file and open it on the https://colab.research.google.com/
+Follow the instructions on the Google Colab for your analysis.
