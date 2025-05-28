@@ -1,0 +1,7 @@
+This is the first step of the project.
+
+1-) Connect the data transmitter micro:bit and configure it as shown in the image(microbit1.PNG). If you can't, download the microbit-data-transmitter.hex file to your microbit. This microbit will be working with the battery so plug the USB cable off and wire the battery.
+2-) Connect the data logger microb:bit and configure it as shown in the image(microbit2.PNG). It is crucial to open this file in the makecode.microbit.org/editor because we will download the raw data from that page. If you can't configure the codeblock steps, download the microbit-data-logger_.hex and go to the https://makecode.microbit.org/# click on import. Import the file and scroll down on the blank page to see the code. 
+3-) Click on "Show Data Device" at the bottom left and start shaking the data transmitter micro:bit. After approx. 1min you can click on "Save raw text" to save the .txt data.
+
+1st Step is done! Go to the step 2.
