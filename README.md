@@ -31,6 +31,7 @@ Follow the steps:
 1. Now is the time to analyze the data you just collected from your two micro:bit system! You will use Google's Lab Website, which will provide you with the computing, and we will provide you with the code that will run on that website. To download the code, click on this [link](Accelerometer_Data-Analysis/Accelerometer_Analysis.ipynb) and click on "Download raw file".
 2. Now that you have the code, the only step left is to go to [Google Colab](https://colab.research.google.com/) and upload your code to that website and follow the steps provided for the Data Analysis section.
 3. IMPORTANT: After you upload your raw data to the notebook environment, DON'T forget to change the name of the file in the Import Data section. For example: your .txt file's name will be different than the example provided in the original code, which was 'microbit-console-2024-10-15T20-25-42-764Z.txt'. Just delete the filename between the brackets and copy-paste the name of your file with .txt extension.
+4. Go to Runtime on the top left toolbar, right next to the COLAB icon. Click on Runtime and Run All. Voilà! Go ahead and analyze your data now!
 
 
 <img src="https://github.com/user-attachments/assets/e1fc3fcd-e91a-4682-9fb5-a52ca20a10be" alt="chart1" width="1000" height="500">
