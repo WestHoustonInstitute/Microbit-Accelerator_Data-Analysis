@@ -1,4 +1,4 @@
-# Microbit-Accelerator_Data-Analysis
+# Microbit Accelerator Data Analysis
 
 This repository will:
 1. Help you **get started** with intermediate electronics programming and data related operations.
