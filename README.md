@@ -19,7 +19,7 @@ This repository will:
 
 Follow the steps:
 1. Download the hex file for [signal transmitter micro:bit](Microbit_Setup/microbit-data-transmitter.hex)
-2. Download the hex file for [data logger micro:bit](Microbit_Setup/microbit-data-logger.hex)
+2. Download the hex file for [data logger micro:bit](Microbit_Setup/microbit-data-logger_.hex)
 3. Upload both to the makecode website https://makecode.microbit.org/# using this link.
 4. After they are uploaded to the website, click on the data transmitter and download it to the first micro:bit. Unplug the USB cable and wire the battery.
 5. Exit the data transmitter file and click on the data logger. Wire usb and download the code to the second micro:bit. After it is downloaded do NOT unplug the USB cable and click on simulate device.
